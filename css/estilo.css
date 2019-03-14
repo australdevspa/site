@@ -1,6 +1,11 @@
 .logo {
     height: 250px;
 }
+@media only screen and (max-width: 639px) {
+    .logo {
+        height: 200px;
+    }
+}
 .sub-sin-margen {
     margin-top: 0;
     margin-bottom: 0;
